@@ -26,7 +26,7 @@ Hi! I'm Yash Bansal, and this repository contains my step-by-step learning of th
 ---
 
 ## 💼 Connect With Me
-- 🔗 [LinkedIn](www.linkedin.com/in/meyashbansal)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/meyashbansal/)
 
 > ⭐ If you're on the same journey, feel free to fork this repo and learn together!
 
