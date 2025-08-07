@@ -1,32 +1,37 @@
-# 📊 Pandas Practice and Projects
+# 📊 Startup Funding in India - Exploratory Data Analysis
 
-Hi! I'm Yash Bansal, and this repository contains my step-by-step learning of the **Pandas** library on the journey to becoming a Data Scientist in 6 months 🚀
+This project explores funding trends in Indian startups from 2015 onwards. It dives into investor patterns, funding stages, cities, sectors, and more using real-world data.
+
+## 🔍 Highlights
+
+- 📅 Year-wise funding trends
+- 💰 Top investors and total amount funded
+- 🏙️ Cities receiving the highest funding
+- 🚀 Funding types (Seed, Series A, etc.)
+- 📈 Average investment over time
+
+## 🛠️ Tools Used
+
+- Python
+- Pandas, Numpy, Matplotlib, Seaborn
+- Jupyter Notebook
+
+## 📂 Project Structure
+
+- `Startup_Funding_EDA.ipynb` – Full analysis and visuals
+- `data/` – Cleaned dataset
+- `visuals/` – Exported charts
+
+## 📌 Dataset
+
+- Source: [Startup Funding Dataset](https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding)  
+- Size: ~3000 entries
+
+## 🧠 Key Insights
+
+- Investor trends have shifted significantly post-2018
+- Bengaluru leads in funding, followed by Delhi NCR and Mumbai
 
 ---
 
-## 📚 Topics Covered
-
-| No. | Topic                         | Notebook | Description |
-|-----|-------------------------------|----------|-------------|
-| 1   | Introduction to Pandas        | ✅ 01_intro/intro.ipynb | Basics, Series, DataFrame |
-| 2   | Reading/Writing Data          | ✅ 02_read_write/read_csv.ipynb | Read CSV, Excel, JSON |
-| 3   | Data Cleaning & Filtering     | ✅ 03_cleaning/cleaning.ipynb | Nulls, Duplicates, Filtering |
-| 4   | GroupBy and Aggregation       | ✅ 04_groupby/groupby.ipynb | `groupby()`, aggregation |
-| 5   | Merging and Joining           | ✅ 05_merge/merge.ipynb | `merge()`, `concat()` |
-| 6   | Real-World Project: Netflix Data | 🛠️ 06_projects/netflix_project.ipynb | EDA project on Netflix |
-
----
-
-## 🧠 My Learning Goal
-
-🎯 Learn Pandas deeply  
-🎯 Upload clean notebooks for each topic  
-🎯 Build 3 mini projects before applying for Data Science roles
-
----
-
-## 💼 Connect With Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/meyashbansal/)
-
-> ⭐ If you're on the same journey, feel free to fork this repo and learn together!
-
+Made with 💙 by Yash Bansal
